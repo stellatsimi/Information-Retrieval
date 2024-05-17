@@ -1,0 +1,2 @@
+"/Users/stella/Documents/docs/*"
+"C:\\Users\\chris\\Downloads\\ir_project\\docs\*"
